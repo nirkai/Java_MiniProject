@@ -73,7 +73,9 @@ public class Point3D extends Point2D{
 	}
 	
 	public void subtract(Vector vector) {
-		
+		_x.setCoordinate(_x.getCoordinate() - vector.getHead().getX().getCoordinate());
+		_y.setCoordinate(_y.getCoordinate()- vector.getHead().getY().getCoordinate());
+		_z.setCoordinate(_z.getCoordinate() - vector.getHead().getZ().getCoordinate());
 	}
 	public double distance(Point3D point){
 		
