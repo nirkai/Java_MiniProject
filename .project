@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Java_MiniProject</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>JAVA_Project</name>
+			<type>2</type>
+			<locationURI>PARENT-4-PROJECT_LOC/JavaProjects/JAVA_Project</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
