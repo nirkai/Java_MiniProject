@@ -8,11 +8,4 @@
 	</buildSpec>
 	<natures>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>JAVA_Project</name>
-			<type>2</type>
-			<locationURI>PARENT-4-PROJECT_LOC/JavaProjects/JAVA_Project</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
